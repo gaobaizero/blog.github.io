@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gaobaizero.github.io</id>
+    <id>https://blog.github.io</id>
     <title>Gridea</title>
-    <updated>2020-03-05T05:38:57.938Z</updated>
+    <updated>2020-03-05T12:33:53.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gaobaizero.github.io"/>
-    <link rel="self" href="https://gaobaizero.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.github.io"/>
+    <link rel="self" href="https://blog.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://gaobaizero.github.io/images/avatar.png</logo>
-    <icon>https://gaobaizero.github.io/favicon.ico</icon>
+    <logo>https://blog.github.io/images/avatar.png</logo>
+    <icon>https://blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[#我的第一篇博文]]></title>
-        <id>https://gaobaizero.github.io/post/wo-de-di-yi-pian-bo-wen/</id>
-        <link href="https://gaobaizero.github.io/post/wo-de-di-yi-pian-bo-wen/">
+        <id>https://blog.github.io/post/wo-de-di-yi-pian-bo-wen/</id>
+        <link href="https://blog.github.io/post/wo-de-di-yi-pian-bo-wen/">
         </link>
         <updated>2020-03-05T04:12:36.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gaobaizero.github.io/post/hello-gridea/</id>
-        <link href="https://gaobaizero.github.io/post/hello-gridea/">
+        <id>https://blog.github.io/post/hello-gridea/</id>
+        <link href="https://blog.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
